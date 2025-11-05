@@ -11,8 +11,6 @@ Social media profiling using automated search queries across platforms like Face
 
 Phone number scanning with custom prefixes provided by the user.
 
-Optional dark web search for publicly accessible and legal data.
-
 Structured output in JSON and CSV for easy analysis and reporting.
 
 Interactive CLI interface with prompts for missing fields (first name, last name, password, email, phone).
